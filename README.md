@@ -1,7 +1,7 @@
 # Natural-language-processing-NLP-Predictive-Models
 Natural language processing helps computers communicate with humans in their own language and scales other language-related tasks.
 
-# Spam Mail Prediction
+# Spam_Mail_Prediction_Model
 
 ## Introduction
 
