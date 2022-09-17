@@ -20,7 +20,7 @@ Aim of this project is the detection of spam email using the dataset and natural
 
 ## Introduction
 
-Fake News Prediction System using Machine Learning with Python. We will be using Logistic Regression model for prediction.
+I am developing the Fake News Prediction System using Machine Learning with Python. 
 
 ## Problem Statement
 
