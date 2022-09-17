@@ -30,4 +30,6 @@ The objective of this project is to build a prediction model to predict whether 
 
 Aim of this project is the detection of Fake news using the dataset and natural language processing. We will also be using machine learning algorithms such as Logistic Regression, Naive Bayes, Decision Tree, Random Forest.
 
+Dataset File: https://www.kaggle.com/c/fake-news/data?select=train.csv
+
 
