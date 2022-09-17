@@ -13,4 +13,21 @@ The objective of this project is to build a prediction model to predict whether 
 
 ## Aim
 
-Aim of this project is the detection of spam email using the dataset and natural language processing. We will also be using machine learning algorithms such as logistic regression.
+Aim of this project is the detection of spam email using the dataset and natural language processing. We will also be using machine learning algorithms such as Logistic Regression, Naive Bayes, Decision Tree, Random Forest.
+
+
+# Fake_News_Prediction_Model
+
+## Introduction
+
+Fake News Prediction System using Machine Learning with Python. We will be using Logistic Regression model for prediction.
+
+## Problem Statement
+
+The objective of this project is to build a prediction model to predict whether a news is fake or not.
+
+## Aim
+
+Aim of this project is the detection of Fake news using the dataset and natural language processing. We will also be using machine learning algorithms such as Logistic Regression, Naive Bayes, Decision Tree, Random Forest.
+
+
